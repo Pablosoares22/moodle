@@ -1,0 +1,38 @@
+body{
+    background:rgb(255, 255, 255);
+    color:  rgb(0, 0, 0);
+}
+
+header{
+    background: #fd7b10;
+    color: white;
+    display: grid;
+    
+}
+
+img{
+ height: 180px;
+    
+    
+}
+
+.klaus p {
+  display: flex;
+  margin-right: 333px;
+}
+
+.container{
+      display: flex;
+}
+
+footer{
+    background: black;
+    color: white;
+   display: block;
+   position: fixed;
+   width: 100%;
+   bottom: 0vh;
+   text-align: center;
+   padding: 0px;
+
+}
